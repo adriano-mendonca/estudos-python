@@ -11,5 +11,5 @@ Exercícios realizados durante o curso de Python do [Curso em Vídeo](https://cu
 - [x] Teste de Aprendizagem
 ### Tarefas do Módulo 3
 - [x] Aulas
-- [] Exercícios
-- [] Teste de Aprendizagem
+- [ ] Exercícios
+- [ ] Teste de Aprendizagem
