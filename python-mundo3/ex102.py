@@ -10,5 +10,5 @@ def fatorial(num, show=False):
     return num
 
 print(10*'---')
-f = fatorial(10)
+f = fatorial(5)
 print(f)
